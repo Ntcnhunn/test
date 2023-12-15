@@ -1,1 +1,1 @@
-<?php echo system('ls -la'); ?>
+<?php echo system('id'); ?>
